@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Costumize dimension-->
+    <dimen name="container_padding_horizontal">25dp</dimen>
+    <dimen name="margin_top_first_elemen">15dp</dimen>
+    <dimen name="margin_top_second_elemen">10dp</dimen>
+    <dimen name="btn_height">60dp</dimen>
+    <dimen name="margin_vertical">20dp</dimen>
+
+
+</resources>

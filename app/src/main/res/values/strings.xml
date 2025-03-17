@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">cleanshoes</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="logo_description">Your Clean Shoes My Happiness</string>
+    <string name="sign_up_text">Don\'t have an account? Sign up</string>
+    <string name="sign_in_text">Already have an account? Sign in</string>
+    <string name="keep_logged">Keep me logged in</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repassword">Confirm Password</string>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+    <string-array name="payment_methods">
+        <item>Credit Card</item>
+        <item>Bank Transfer</item>
+        <item>Cash</item>
+        <item>QRis</item>
+    </string-array>
+</resources>

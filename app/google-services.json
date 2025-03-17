@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508326978802",
+    "project_id": "cleanshoes123",
+    "storage_bucket": "cleanshoes123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508326978802:android:97061a2ac9de7d55bb1c6b",
+        "android_client_info": {
+          "package_name": "com.cleanshoes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSuHtub2uq4bs_JZEaONK2NGFo2UzYqa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
